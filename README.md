@@ -1,4 +1,7 @@
-##Hello World!
+## Hello World!
+
+This is the first version of my profile.
+
 [![Static Badge](https://img.shields.io/badge/bilibili-follow-blue?logo=bilibili)](https://space.bilibili.com/102964825)
 <!--
 **twds0x13/twds0x13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
